@@ -1,0 +1,10 @@
+C:\inSyncServer4
+
+1. inSyncServer.cfg
+2. SSL keys and certificates
+3. inSyncAdminAuth.db
+4. inSyncServerDiagnostics.zip  # gold mine!
+
+/etc/inSyncServer
+
+<ditto>
