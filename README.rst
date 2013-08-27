@@ -5,6 +5,11 @@ You probably want to see `Inside Druva inSync.pdf`
 
 Versions 5.1 and 5.2 were analyzed.
 
+...
+
+August, 2013 UPDATE: inSync 5.2.1 fixes some of the problems we found in
+earlier versions.
+
 Resources
 =========
 
